@@ -1,2 +1,8 @@
 Hello world
 This is the First Text of Git
+
+
+import time
+
+
+time.sleep(100)
