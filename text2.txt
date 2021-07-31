@@ -1,0 +1,3 @@
+This is the Sencond Document of Text of Git
+
+And I'll Delete this Document later.
