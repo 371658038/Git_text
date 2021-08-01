@@ -1,3 +1,6 @@
 This is the Sencond Document of Text of Git
 
 And I'll Delete this Document later.
+
+This day is 2021/8/1 and I will learn Git continue.
+Edit by branch_one.
